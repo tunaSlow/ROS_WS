@@ -1,0 +1,6 @@
+VINS-Fusion/global_fusion
+/root/catkin_ws/devel/.private/global_fusion/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/global_fusion/lib/pkgconfig/global_fusion.pc /root/catkin_ws/devel/lib/pkgconfig/global_fusion.pc
+/root/catkin_ws/devel/.private/global_fusion/lib/global_fusion/global_fusion_node /root/catkin_ws/devel/lib/global_fusion/global_fusion_node
+/root/catkin_ws/devel/.private/global_fusion/share/global_fusion/cmake/global_fusionConfig-version.cmake /root/catkin_ws/devel/share/global_fusion/cmake/global_fusionConfig-version.cmake
+/root/catkin_ws/devel/.private/global_fusion/share/global_fusion/cmake/global_fusionConfig.cmake /root/catkin_ws/devel/share/global_fusion/cmake/global_fusionConfig.cmake

@@ -1,0 +1,9 @@
+VINS-Fusion/vins_estimator
+/root/catkin_ws/devel/.private/vins/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/vins/lib/libvins_lib.so /root/catkin_ws/devel/lib/libvins_lib.so
+/root/catkin_ws/devel/.private/vins/lib/pkgconfig/vins.pc /root/catkin_ws/devel/lib/pkgconfig/vins.pc
+/root/catkin_ws/devel/.private/vins/lib/vins/kitti_odom_test /root/catkin_ws/devel/lib/vins/kitti_odom_test
+/root/catkin_ws/devel/.private/vins/lib/vins/vins_node /root/catkin_ws/devel/lib/vins/vins_node
+/root/catkin_ws/devel/.private/vins/lib/vins/kitti_gps_test /root/catkin_ws/devel/lib/vins/kitti_gps_test
+/root/catkin_ws/devel/.private/vins/share/vins/cmake/vinsConfig-version.cmake /root/catkin_ws/devel/share/vins/cmake/vinsConfig-version.cmake
+/root/catkin_ws/devel/.private/vins/share/vins/cmake/vinsConfig.cmake /root/catkin_ws/devel/share/vins/cmake/vinsConfig.cmake

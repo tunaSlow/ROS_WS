@@ -1,0 +1,6 @@
+VINS-Fusion/loop_fusion
+/root/catkin_ws/devel/.private/loop_fusion/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/loop_fusion/lib/pkgconfig/loop_fusion.pc /root/catkin_ws/devel/lib/pkgconfig/loop_fusion.pc
+/root/catkin_ws/devel/.private/loop_fusion/lib/loop_fusion/loop_fusion_node /root/catkin_ws/devel/lib/loop_fusion/loop_fusion_node
+/root/catkin_ws/devel/.private/loop_fusion/share/loop_fusion/cmake/loop_fusionConfig.cmake /root/catkin_ws/devel/share/loop_fusion/cmake/loop_fusionConfig.cmake
+/root/catkin_ws/devel/.private/loop_fusion/share/loop_fusion/cmake/loop_fusionConfig-version.cmake /root/catkin_ws/devel/share/loop_fusion/cmake/loop_fusionConfig-version.cmake

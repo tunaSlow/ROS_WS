@@ -1,0 +1,7 @@
+VINS-Fusion/camera_models
+/root/catkin_ws/devel/.private/camera_models/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/camera_models/lib/libcamera_models.so /root/catkin_ws/devel/lib/libcamera_models.so
+/root/catkin_ws/devel/.private/camera_models/lib/pkgconfig/camera_models.pc /root/catkin_ws/devel/lib/pkgconfig/camera_models.pc
+/root/catkin_ws/devel/.private/camera_models/lib/camera_models/Calibrations /root/catkin_ws/devel/lib/camera_models/Calibrations
+/root/catkin_ws/devel/.private/camera_models/share/camera_models/cmake/camera_modelsConfig.cmake /root/catkin_ws/devel/share/camera_models/cmake/camera_modelsConfig.cmake
+/root/catkin_ws/devel/.private/camera_models/share/camera_models/cmake/camera_modelsConfig-version.cmake /root/catkin_ws/devel/share/camera_models/cmake/camera_modelsConfig-version.cmake
