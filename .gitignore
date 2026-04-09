@@ -1,0 +1,10 @@
+melodic/xfeat_vins_ws/build
+melodic/xfeat_vins_ws/devel
+kinetic/vins_kinetic_ws/build
+kinetic/vins_kinetic_ws/devel
+humble/stm32_ws/build
+humble/stm32_ws/install
+humble/stm32_ws/log
+humble/test_ws/build
+humble/test_ws/install
+humble/test_ws/log
